@@ -28,19 +28,19 @@ Libraries: XGBoost, CatBoost, Scikit-Learn, Pandas, NumPy, Matplotlib, TensorFlo
 
 Installation & Usage
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/battal20/customer-purchase-prediction.git
 
-Navigate to the project folder:
+2. Navigate to the project folder:
 
 cd customer-purchase-prediction
 
-Install required dependencies:
+3. Install required dependencies:
 
 pip install xgboost catboost scikit-learn pandas numpy matplotlib tensorflow keras torch torchvision
 
-Run the Jupyter Notebook:
+4. Run the Jupyter Notebook:
 
 jupyter notebook purchase_prediction.ipynb
 
