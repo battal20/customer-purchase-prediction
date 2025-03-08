@@ -30,7 +30,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/customer-purchase-prediction](https://github.com/battal20/customer-purchase-prediction.git
+git clone https://github.com/battal20/customer-purchase-prediction.git
 
 Navigate to the project folder:
 
